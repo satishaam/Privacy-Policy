@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Brain Vital</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; color: #333; }
+h1 { color: #007AFF; }
+a { color: #007AFF; text-decoration: none; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy - Brain Vital</h1>
+<p>Last updated: March 11, 2026</p>
+
+<h2>Offline App & Data Storage</h2>
+<p>Brain Vital is a purely offline app. All data resides solely on your device and is never sent to any servers. The app works fully offline, and your information never leaves your device.</p>
+
+<h2>No Data Collection</h2>
+<p>We do not capture, track, or collect any personal or usage data from your device. Brain Vital does not share, sell, or transmit any information to third parties.</p>
+
+<h2>Support</h2>
+<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:pallavisatisha@gmail.com">pallavisatisha@gmail.com</a></p>
+
+</body>
+</html>
